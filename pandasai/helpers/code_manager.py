@@ -295,7 +295,6 @@ Code running:
                 for method in [
                     ".to_csv",
                     ".to_excel",
-                    ".to_json",
                     ".to_sql",
                     ".to_feather",
                     ".to_hdf",
